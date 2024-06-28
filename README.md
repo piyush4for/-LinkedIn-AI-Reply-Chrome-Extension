@@ -20,8 +20,7 @@ See how to load the extension: https://docs.plasmo.com/framework/workflows/dev#l
 For further guidance, [visit our Documentation](https://docs.plasmo.com/).
 
 ## Demo
-https://github.com/piyush4for/-LinkedIn-AI-Reply-Chrome-Extension/assets/piyush4for/demo_piyush.webm
-
+[demo_piyush.webm](https://github.com/piyush4for/-LinkedIn-AI-Reply-Chrome-Extension/assets/67409557/39a1a979-f3d4-4234-b023-8af70923d2af)
 
 ## Making production build
 
